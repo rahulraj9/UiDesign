@@ -1,0 +1,147 @@
+body {
+    background-color: white;
+}
+
+#div1 {
+    background-color: pink;
+    width: 13.33%;
+    float: right;
+    height: 100px;
+}
+
+#div2 {
+    background-color: pink;
+    width: 38.33%;
+    height: 100px;
+}
+
+#div3 {
+    background-color: pink;
+    width: 23.33%;
+    margin: 15px auto;
+    height: 100px;
+}
+
+#div4 {
+    background-color: pink;
+    width: 12.33%;
+    margin: 14px auto;
+    height: 15px;
+}
+
+#div5 {
+    background-color: pink;
+    width: 100%;
+    margin: 30px auto;
+    height: 400px;
+    float: left;
+}
+
+#div5child {
+    background-color: grey;
+    width: 25.33%;
+    margin: 19px;
+    height: 22px;
+    float: left;
+}
+
+#div5bchild {
+    background-color: grey;
+    width: 25.33%;
+    margin: 15px;
+    height: 22px;
+    float: right;
+}
+
+#div5cchild {
+    background-color: grey;
+    width: 42.80%;
+    margin: 8px auto;
+    height: 75px;
+}
+
+#div5grandchild {
+    background-color: grey;
+    width: 25.33%;
+    margin: 19px;
+    height: 22px;
+    float: left;
+}
+
+#div5cgrandchild {
+    background-color: grey;
+    width: 70.62%;
+    margin: 8px;
+    height: 75px;
+    float: right;
+}
+
+
+/*  */
+
+#div5dgrandchild {
+    background-color: grey;
+    width: 35.80%;
+    margin: 110px;
+    margin-left: 384px;
+    height: 45px;
+}
+
+
+/* 
+#div5egrandchild {
+    background-color: grey;
+    width: 35.80%;
+    margin: 110px;
+    margin-left: 384px;
+    height: 45px;
+}
+
+#div5fgrandchild {
+    background-color: grey;
+    width: 25.33%;
+    float: right;
+} */
+
+#div5egrandchild {
+    background-color: grey;
+    width: 25.33%;
+    margin: 5px;
+    height: 22px;
+    float: right
+}
+
+
+/*  */
+
+#div5fgrandchild {
+    background-color: grey;
+    width: 35.80%;
+    margin-left: 388px;
+    height: 43px;
+    float: left;
+}
+
+#div6 {
+    background-color: pink;
+    width: 100%;
+    margin: 30px auto;
+    height: 400px;
+    float: left;
+}
+
+#div6child {
+    background-color: grey;
+    width: 25.33%;
+    margin: 19px;
+    height: 22px;
+    float: left;
+}
+
+#div6bchild {
+    background-color: grey;
+    width: 25.33%;
+    margin: 15px;
+    height: 22px;
+    float: right;
+}
